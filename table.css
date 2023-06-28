@@ -1,0 +1,29 @@
+
+th, td {
+    background-color: #c6d450;
+  }
+  
+div {
+    position: absolute;
+    right: 350px;
+   left:350px;
+    top: 40px;
+    
+  } 
+
+.mydiv {
+    position: absolute;
+    right: 350px;
+   left:350px;
+    top: 280px;
+    
+  } 
+.mdiv {
+    position: absolute;
+    right: 350px;
+   left:350px;
+    top: 490px;
+    
+  } 
+
+  
